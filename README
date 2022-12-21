@@ -34,3 +34,46 @@ Once the user has finished testing their memory recall as a DJ, the 5 LED lights
 ——————————
 
 With DJ Memory completed, and the full gamut of activities having come to a close, the user is then given the choice to restart all of the games anew. If, at the start of the program, they had elected to work via the serial monitor, then the serial monitor will prompt them to provide a written indication of their desire to begin the games afresh. If instead they had elected to work via the buttons, then the program will wait attentively for any of the 5 colorful buttons to be pressed, at which point the program will reset all settings, loop back to the start, and delve into Lightspeed.
+
+
+——————————
+——————————
+
+To recreate this project, the following tools and supplies are needed:
+
+
+- 1 Arduino circuit board
+
+- 1 large breadboard
+
+- 5 larger (preferably colorful) buttons
+
+- 5 LED lights
+
+- 5 photoresistors
+
+- 1 piezo
+
+- Several wires… we ended up using:
+  - 39 regular wires
+  - 20 long wires
+
+- Several resistors… we ended up using:
+  - 10 brown-black-orange (10000 ohms) resistors
+  - 5 green-blue-brown (560 ohms) resistors
+
+- Soldering iron, solder metal alloy, etc.
+
+- Sufficiently-sized cardboard box
+
+- Sharp object (scissors, exacto knife) that slices cardboard
+
+- Decorations of choice
+
+
+——————————
+——————————
+
+*** Credit for all songs utilized in code: 
+          robsoncouto 
+          (^^ Rob's GitHub repos are fantastic, be sure to check them out!)
