@@ -36,8 +36,7 @@ Once the user has finished testing their memory recall as a DJ, the 5 LED lights
 With DJ Memory completed, and the full gamut of activities having come to a close, the user is then given the choice to restart all of the games anew. If, at the start of the program, they had elected to work via the serial monitor, then the serial monitor will prompt them to provide a written indication of their desire to begin the games afresh. If instead they had elected to work via the buttons, then the program will wait attentively for any of the 5 colorful buttons to be pressed, at which point the program will reset all settings, loop back to the start, and delve into Lightspeed.
 
 
-——————————
-——————————
+————————————————————
 
 To recreate this project, the following tools and supplies are needed:
 
@@ -71,16 +70,13 @@ To recreate this project, the following tools and supplies are needed:
 - Decorations of choice
 
 
-——————————
-——————————
+————————————————————
 
-*** Credit for all songs utilized in code: 
-          [robsoncouto] (https://github.com/robsoncouto/arduino-songs) 
-          (^^ Rob's GitHub repos are fantastic, be sure to check them out!)
+*** Credit for all songs utilized in code (thank you, Rob!): 
+          [robsoncouto](https://github.com/robsoncouto/arduino-songs) 
 
 
-——————————
-——————————
+————————————————————
 
-Explore further [project details here] (https://cio727131088.wordpress.com/2021/12/12/group-14-reaction-time/)
+Explore further [project details here](https://cio727131088.wordpress.com/2021/12/12/group-14-reaction-time/)
 
